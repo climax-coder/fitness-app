@@ -1,7 +1,7 @@
 import {useForm} from "react-hook-form";
 import { SelectedPage } from '@/shared/types';
 import { motion } from 'framer-motion';
-import ContactUSPageGraphic from "@/assets/ContactUSPageGraphic.png";
+import ContactUsPageGraphic from "@/assets/ContactUsPageGraphic.png";
 import HTtext from "@/shared/HText";
 
 
@@ -144,7 +144,7 @@ variants={{
     <img 
     className="w-full"
     alt="contact-us-page-graphic"
-    src={ContactUSPageGraphic}
+    src={ContactUsPageGraphic}
     />
 </div>
 </motion.div>
